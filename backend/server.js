@@ -11,7 +11,7 @@ app.use(cors());
 const router = express.Router();
 
 // this is our MongoDB database
-const dbRoute = 'mongodb+srv://test:test@cluster-hinbg.gcp.mongodb.net/test?retryWrites=true&w=majority';
+const dbRoute = 'mongodb+srv://<username>:<password>@cluster-hinbg.gcp.mongodb.net/test?retryWrites=true&w=majority';
 
 
 var MongoClient = require('mongodb').MongoClient;
