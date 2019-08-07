@@ -1,0 +1,4 @@
+10
+mongodb://localhost:27017/
+SparkStreamingDB
+Experiment3

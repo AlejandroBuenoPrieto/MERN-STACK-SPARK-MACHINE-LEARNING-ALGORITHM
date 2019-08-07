@@ -1,0 +1,4 @@
+20
+mongodb://localhost:27017/
+SparkStreamingDB
+asset1

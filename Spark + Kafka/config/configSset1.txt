@@ -1,0 +1,4 @@
+15
+mongodb://localhost:27017/
+SparkStreamingDB
+sset1
