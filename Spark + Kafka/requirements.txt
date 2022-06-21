@@ -12,7 +12,7 @@ kafka-python==1.4.6
 kiwisolver==1.1.0
 matplotlib==3.1.0
 nbformat==4.4.0
-numpy==1.16.4
+numpy==1.22.0
 pandas==0.24.2
 pkg-resources==0.0.0
 plotly==3.9.0
